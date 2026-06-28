@@ -1,0 +1,16 @@
+{
+  "name": "anand-singh-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Basic static portfolio website for Anand Singh.",
+  "scripts": {
+    "start": "python -m http.server 8080"
+  },
+  "keywords": [
+    "portfolio",
+    "static-site",
+    "netlify"
+  ],
+  "author": "Anand Singh",
+  "license": "UNLICENSED"
+}
